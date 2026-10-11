@@ -1,0 +1,13 @@
+streamlit>=1.40,<2
+setuptools<81
+numpy<2
+Pillow
+fer
+tensorflow-cpu==2.16.2
+opencv-python-headless
+imageio-ffmpeg
+soundfile
+librosa
+transformers
+torch
+pandas
